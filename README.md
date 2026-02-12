@@ -3,8 +3,28 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe.lohan_/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-lohan-767294213/)
 
-![Felipe Lohan GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeLohan&show_icons=true&theme=dracula)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeLohan&layout=compact&langs_count=7&theme=dracula"/>
+<div>
+  <a href="metricas">
+    <picture>
+      <source
+        id="github-stats-dark-mode"
+        srcset="https://github-readme-stats-steel-omega.vercel.app/api?username=FelipeLohan&custom_title=devlimas's%20GitHub%20Stats&count_private=false&show_icons=true&disable_animations=true&card_width=440&bg_color=00000000&border_radius=6&border_color=353A3F&title_color=DFE2E6&text_color=AEB5BC&icon_color=3955CD&cache_seconds=43200"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        id="github-stats-light-mode"
+        srcset="https://github-readme-stats-steel-omega.vercel.app/api?username=devlimas&custom_title=FelipeLohan's%20GitHub%20Stats&count_private=false&show_icons=true&disable_animations=true&card_width=440&bg_color=00000000&border_radius=6&border_color=CFD4D9&title_color=3D4255&text_color=6E757C&icon_color=3955CD&cache_seconds=43200"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img
+        src="https://github-readme-stats-steel-omega.vercel.app/api?username=devlimas&custom_title=devlimas's%20GitHub%20Stats&count_private=false&show_icons=true&disable_animations=true&card_width=440&bg_color=00000000&border_radius=6&border_color=CFD4D9&title_color=3D4255&text_color=6E757C&icon_color=3955CD&cache_seconds=43200"
+        title="devlimas Statistics"
+        alt="GitHub statistics for the devlimas account, displaying contributions and other metrics."
+        loading="lazy"
+      />
+    </picture>
+  </a>
+</div>
 
 ## Tecnologias que uso no meu dia
 
