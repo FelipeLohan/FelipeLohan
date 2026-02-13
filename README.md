@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Olá! pode me chamar de Lohan! 😉</h1>
+<h1 align="center">Olá, pode me chamar de Lohan! 😉</h1>
 
 ###
 
